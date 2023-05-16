@@ -1,0 +1,18 @@
+id: I377DD8A1
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:26.504655
+last_modified: 2023-01-04 11:29:26.504672
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  C7E3:
+    title: Prayer for Swift Rebirth of the Fourth Dodrupchen Rinpoche
+    base_file: C7E3.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
